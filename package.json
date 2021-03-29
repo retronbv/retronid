@@ -6,7 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["retron", "retronlabs", "retronid", "retronbv"],
+  "keywords": [
+    "retron",
+    "retronlabs",
+    "retronid",
+    "retronbv"
+  ],
   "author": "retronbv",
   "license": "ISC",
   "dependencies": {
