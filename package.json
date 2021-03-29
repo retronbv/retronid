@@ -1,15 +1,23 @@
 {
   "name": "retronid",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "A short unique id.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["retron", "retronlabs", "retronid", "retronbv"],
+  "author": "retronbv",
   "license": "ISC",
   "dependencies": {
     "uuid": "^8.3.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/retronbv/retronid.git"
+  },
+  "bugs": {
+    "url": "https://github.com/retronbv/retronid/issues"
+  },
+  "homepage": "https://github.com/retronbv/retronid#readme"
 }
