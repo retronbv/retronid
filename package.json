@@ -1,6 +1,6 @@
 {
   "name": "retronid",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A short unique id.",
   "main": "index.js",
   "scripts": {
