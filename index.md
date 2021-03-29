@@ -1,5 +1,5 @@
 # retronid
-![retronid branding](/docs/retronid-branding.png)
+![retronid branding](https://retronbv.github.io/retronid/docs/retronid-branding.png)
 
 A short unique id.
 
