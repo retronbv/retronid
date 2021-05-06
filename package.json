@@ -1,10 +1,12 @@
 {
   "name": "retronid",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "description": "A short unique id.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js",
+    "publish": "npm publish",
+    "start": "node index.js"
   },
   "keywords": [
     "retron",
