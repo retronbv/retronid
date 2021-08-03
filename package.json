@@ -3,7 +3,11 @@
   "version": "2.0.0",
   "description": "A short unique id.",
   "main": "index.js",
+<<<<<<< HEAD
   "types": "index.d.ts",
+=======
+  "type": "module",
+>>>>>>> 4ccf26fdb202c1790aad0fd2bcf6082e48cbe818
   "scripts": {
     "test": "node test.js",
     "test-ts": "node types.js",

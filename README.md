@@ -4,6 +4,7 @@
 A short unique id.
 
 ```js
-const retronid = require("retronid");
-console.log(retronid.generate());
+import { generate } from './index.js'
+
+console.log(generate())
 ```
