@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "A short unique id.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "node test.js",
     "publish": "npm publish",

@@ -1,2 +1,3 @@
-const retronid = require("./index.js");
-console.log(retronid.generate());
+import { generate } from './index.js'
+
+console.log(generate())
